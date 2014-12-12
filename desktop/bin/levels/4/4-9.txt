@@ -1,0 +1,186 @@
+# This file only supports single line comments
+
+# Moves for 2 stars
+
+20
+
+# Moves for 3 stars 
+
+9
+
+# Width of the level: no constraints
+
+6
+
+# Height of the level: must be an even number
+
+8
+
+# Number of start triangles: 
+
+3
+
+# Start triangle(s): must be in groups of 2, and less than width and height
+
+0 4
+0 1
+0 7
+
+# Start side(s): must be left, right, up, or down
+
+right
+right
+right
+
+# Start direction(s): cannot go through start triangle:
+# Must be in degrees: 0, 60, 120, 180, 240, 300, 360
+
+0
+0
+0
+
+# Start color(s): must be red, blue, yellow
+
+p1
+p2
+p3
+
+# Number of end triangles:
+
+9
+
+# End triangle(s): must be in groups of 2, and less than width and height
+
+4 4
+4 4
+3 4
+5 3
+5 3
+6 2
+6 4
+6 4
+7 5
+
+# End side(s): must be left, right, up, or down
+
+right
+left
+left
+up
+right
+up
+left
+up
+left
+
+# End color(s): must be red, blue, yellow, orange, green, or purple:
+
+s3
+s3
+s3
+s1
+s1
+s1
+s2
+s2
+s2
+
+# Triangle attributes: Must be less than (2*levelWidth - 1)(levelHeight) triangles
+# Triangles not included will be available and empty
+# Triangle number, availability, empty,
+
+unavailable
+unavailable
+unavailable
+unavailable
+regular-free
+glass-free
+regular-free
+unavailable
+unavailable
+unavailable
+unavailable
+
+unavailable
+unavailable
+unavailable
+empty
+empty
+empty
+empty
+empty
+unavailable
+unavailable
+unavailable
+
+unavailable
+unavailable
+empty
+absorbent-fixed
+unavailable
+absorbent-fixed
+unavailable
+empty
+empty
+unavailable
+unavailable
+
+unavailable
+empty
+empty
+empty
+empty
+glass-free
+empty
+empty
+empty
+empty
+unavailable
+
+empty
+empty
+unavailable
+empty
+empty
+empty
+empty
+empty
+unavailable
+absorbent-fixed
+empty
+
+empty
+absorbent-fixed
+empty
+absorbent-fixed
+empty
+empty
+empty
+empty
+absorbent-fixed
+empty
+empty
+
+regular-free
+empty
+unavailable
+regular-free
+empty
+regular-free
+empty
+regular-free
+unavailable
+empty
+regular-free
+
+empty
+empty
+unavailable
+empty
+empty
+empty
+empty
+empty
+unavailable
+empty
+empty

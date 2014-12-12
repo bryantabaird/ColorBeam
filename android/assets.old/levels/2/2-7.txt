@@ -1,0 +1,219 @@
+# This file only supports single line comments
+
+# Moves for 2 stars
+
+9
+
+# Moves for 3 stars 
+
+4
+
+# Width of the level: no constraints
+
+6
+
+# Height of the level: must be an even number
+
+10
+
+# Number of start triangles: 
+
+3
+
+# Start triangle(s): must be in groups of 2, and less than width and height
+
+1 2
+10 5
+1 7
+
+# Start side(s): must be left, right, up, or down
+
+right
+left
+right
+
+# Start direction(s): cannot go through start triangle:
+# Must be in degrees: 0, 60, 120, 180, 240, 300, 360
+
+60
+180
+300
+
+# Start color(s): must be red, blue, yellow
+
+p1
+p2
+p3
+
+# Number of end triangles:
+
+8
+
+# End triangle(s): must be in groups of 2, and less than width and height
+
+# 4 4
+4 5
+6 5
+# 6 4
+4 5
+# 4 4
+# 6 4
+6 5
+4 4
+6 4
+4 1
+4 8
+
+# End side(s): must be left, right, up, or down
+
+# left
+right
+left
+# right
+left
+# right
+# left
+right
+up
+up
+left
+left
+
+# End color(s): must be red, blue, yellow, orange, green, or purple:
+
+# s1
+s1
+s1
+# s1
+s2
+# s2
+# s2
+s2
+s3
+s3
+p1
+p3
+
+# Triangle attributes: Must be less than (2*levelWidth - 1)(levelHeight) triangles
+# Triangles not included will be available and empty
+# Triangle number, availability, empty,
+
+unavailable
+unavailable
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+
+unavailable
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+regular-free
+
+empty
+empty
+empty
+empty
+unavailable
+unavailable
+unavailable
+empty
+empty
+empty
+empty
+
+empty
+empty
+regular-free
+unavailable
+unavailable
+empty
+unavailable
+unavailable
+empty
+empty
+empty
+
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+
+empty
+empty
+regular-free
+unavailable
+unavailable
+empty
+unavailable
+unavailable
+empty
+empty
+empty
+
+empty
+empty
+empty
+empty
+unavailable
+unavailable
+unavailable
+empty
+empty
+empty
+regular-free
+
+unavailable
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+
+unavailable
+unavailable
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+regular-free

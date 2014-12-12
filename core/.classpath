@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="lib" path="libs/gdx-freetype.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-examples-3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

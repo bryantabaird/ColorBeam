@@ -1,0 +1,119 @@
+# This file only supports single line comments
+
+# Moves for 2 stars
+
+5
+
+# Moves for 3 stars 
+
+3
+
+# Width of the level: no constraints
+
+5
+
+# Height of the level: must be an even number
+
+6
+
+# Number of start triangles: 
+
+1
+
+# Start triangle(s): must be in groups of 2, and less than width and height
+
+8 4
+
+# Start side(s): must be left, right, up, or down
+
+left
+
+# Start direction(s): cannot go through start triangle:
+# Must be in degrees: 0, 60, 120, 180, 240, 300, 360
+
+180
+
+# Start color(s): must be p1, p2, p3, s1, s2, or s3:
+
+p3
+
+# Number of end triangles:
+
+1
+
+# End triangle(s): must be in groups of 2, and less than width and height
+
+0 4
+
+# End side(s): must be left, right, up, or down
+
+left
+
+# End color(s): must be p1, p2, p3, s1, s2, or s3:
+
+p3
+
+# Triangle attributes: Must be less than (2*levelWidth - 1)(levelHeight) triangles
+# Unavailable, empty, regular-free, regular-fixed
+# absorbent-free, absorbent-fixed
+
+unavailable
+empty
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+empty
+unavailable
+
+unavailable
+unavailable
+unavailable
+unavailable
+regular-free
+unavailable
+empty
+unavailable
+unavailable
+
+unavailable
+regular-free
+unavailable
+unavailable
+regular-fixed
+unavailable
+unavailable
+empty
+unavailable
+
+empty
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+empty
+unavailable
+unavailable
+
+unavailable
+unavailable
+unavailable
+unavailable
+regular-fixed
+unavailable
+unavailable
+unavailable
+unavailable
+
+unavailable
+unavailable
+regular-free
+unavailable
+unavailable
+unavailable
+unavailable
+unavailable
+regular-free
+

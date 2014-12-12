@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="src" path="/ColorBeam-core"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="freetypeLibs/gdx-freetype.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bryant/Desktop/Project/ColorBeam/commons-net-3.3/commons-net-examples-3.3.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

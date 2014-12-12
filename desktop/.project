@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ColorBeam-desktop</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.springsource.ide.eclipse.gradle.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>assets</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/android/assets</locationURI>
+		</link>
+		<link>
+			<name>freetypeLibs</name>
+			<type>2</type>
+			<location>C:/Users/Bryant/Desktop/Project/ColorBeam/core/libs</location>
+		</link>
+		<link>
+			<name>libs</name>
+			<type>2</type>
+			<location>C:/Users/Bryant/Desktop/Project/ColorBeam/core/libs</location>
+		</link>
+	</linkedResources>
+</projectDescription>
